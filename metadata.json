@@ -1,0 +1,6 @@
+{
+  "name": "TeamCap Planner",
+  "description": "Quantify team capacity and assign projects based on man-days with drag-and-drop or random assignment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
